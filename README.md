@@ -38,12 +38,12 @@ You can practice these questions in **any language** (Java, C, C++, Python, Java
 2. Print numbers from **10 to 1**.
 3. Print all **even numbers from 1 to 100**.
 4. Print the **multiplication table** of a given number.
-5. Find the **sum of first N natural numbers**.
-6. Find the **factorial of a number**.
-7. Count the **number of digits** in a number.
+5. Find the **sum of first N natural numbers**. 🏳️
+6. Find the **factorial of a number**. 🏳️
+7. Count the **number of digits** in a number. 🏳️
 8. Reverse a number.
-9. Check whether a number is a **palindrome**.
-10. Check whether a number is an **Armstrong number**.
+9. Check whether a number is a **palindrome**. 🏳️
+10. Check whether a number is an **Armstrong number**. 🚩
 
 ---
 
@@ -57,8 +57,8 @@ You can practice these questions in **any language** (Java, C, C++, Python, Java
 6. Copy elements from one array to another.
 7. Reverse an array.
 8. Search an element in an array.
-9. Sort an array in **ascending order**.
-10. Find the **second largest element** in an array.
+9. Sort an array in **ascending order**. 🏳️
+10. Find the **second largest element** in an array. 🏳️
 
 ---
 
