@@ -11,8 +11,8 @@ You can practice these questions in **any language** (Java, C, C++, Python, Java
 5. Write a program to check whether a number is **positive or negative**.
 6. Write a program to check whether a number is **even or odd**.
 7. Take a number and print its **square and cube**.
-8. Convert **Celsius to Fahrenheit**.
-9. Convert **Fahrenheit to Celsius**.
+8. Convert **Celsius to Fahrenheit**. 🏳️
+9. Convert **Fahrenheit to Celsius**. 🏳️
 10. Take length and breadth of a rectangle and find its **area and perimeter**.
 
 ---
@@ -23,9 +23,9 @@ You can practice these questions in **any language** (Java, C, C++, Python, Java
 2. Check whether a number is **divisible by both 3 and 5**.
 3. Find the **largest of two numbers**.
 4. Find the **largest of three numbers**.
-5. Check whether a year is a **leap year**.
+5. Check whether a year is a **leap year**. 🏳️
 6. Check whether a character is a **vowel or consonant**.
-7. Check whether a number is a **3-digit number**.
+7. Check whether a number is a **3-digit number**. 🏳️
 8. Calculate **grade** based on marks.
 9. Check whether a person is **eligible to vote**.
 10. Create a simple **calculator using switch-case**.
