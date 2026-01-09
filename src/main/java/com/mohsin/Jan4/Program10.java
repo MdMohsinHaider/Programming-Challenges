@@ -1,6 +1,5 @@
 package com.mohsin.Jan4;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Program10 {
