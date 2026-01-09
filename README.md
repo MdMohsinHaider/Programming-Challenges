@@ -55,7 +55,7 @@ You can practice these questions in **any language** (Java, C, C++, Python, Java
 4. Find the **smallest element** in an array.
 5. Count **even and odd numbers** in an array.
 6. Copy elements from one array to another.
-7. Reverse an array.
+7. Reverse an array. 🏳️
 8. Search an element in an array.
 9. Sort an array in **ascending order**. 🏳️
 10. Find the **second largest element** in an array. 🏳️
