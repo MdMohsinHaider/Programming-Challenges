@@ -1,4 +1,4 @@
-package com.mohsin.java8.program;
+package com.mohsin.java8.program.section;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class Program10 {
         System.out.print("Enter Breadth: ");
         double breath = scanner.nextDouble();
 
-        RectangleOperation area = (l,b)-> l*b;
+        RectangleOperation area = (l, b)-> l*b;
         RectangleOperation perimeter = (l,b)-> 2*(l+b);
 
         System.out.println(area.calculate(length,breath));

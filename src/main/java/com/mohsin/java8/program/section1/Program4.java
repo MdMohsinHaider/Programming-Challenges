@@ -1,4 +1,4 @@
-package com.mohsin.java8.program;
+package com.mohsin.java8.program.section;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class Program4 {
         int firstNum = scanner.nextInt();
         int secondNum = scanner.nextInt();
 
-        Operation sum = (n,m)-> n+m;
+        Operation sum = (n, m)-> n+m;
         Operation difference = (n,m)-> n-m;
         Operation product = (n,m)-> n*m;
         Operation division = (n,m)-> n/m;

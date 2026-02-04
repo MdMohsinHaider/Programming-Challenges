@@ -1,4 +1,4 @@
-package com.mohsin.java8.program;
+package com.mohsin.java8.program.section;
 
 public class Program2 {
     // Write a program to print your name, age, and city.

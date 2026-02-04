@@ -1,4 +1,4 @@
-package com.mohsin.java8.program;
+package com.mohsin.java8.program.section;
 
 import java.util.function.Consumer;
 
